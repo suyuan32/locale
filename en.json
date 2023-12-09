@@ -19,7 +19,7 @@
 		"notSingularError": "Operation failed: Data not unique",
 		"serviceUnavailable": "Service is unavailable, please check if the service is enabled"
 	},
-	"apiGroup":{
+	"apiGroup": {
 		"cloud_file_tag": "Cloud File's Tag",
 		"cloud_file": "Cloud File",
 		"storage_provider": "Storage Provider",
@@ -44,9 +44,34 @@
 		"email_log": "Email Log",
 		"sms_provider": "SMS Provider",
 		"sms_log": "SMS Log",
-		"message_sender": "Send Message"
+		"message_sender": "Send Message",
+		"article_category": "Article Category",
+		"article_tag": "Article Tag",
+		"article": "Article",
+		"articleModify": "Edit Article",
+		"article_comment": "Article Comment"
 	},
 	"apiDesc": {
+		"createArticleComment": "Create a article comment",
+		"updateArticleComment": "Update the article comment",
+		"deleteArticleComment": "Delete article comments",
+		"getArticleCommentList": "Get article comment list",
+		"getArticleCommentById": "Get article comment by ID",
+		"createArticleTag": "Create a article tag",
+		"updateArticleTag": "Update the article tag",
+		"deleteArticleTag": "Delete article tags",
+		"getArticleTagList": "Get article tag list",
+		"getArticleTagById": "Get article tag by ID",
+		"createArticleCategory": "Create a article category",
+		"updateArticleCategory": "Update the article category",
+		"deleteArticleCategory": "Delete article categories",
+		"getArticleCategoryList": "Get article category list",
+		"getArticleCategoryById": "Get article category by ID",
+		"createArticle": "Create a article",
+		"updateArticle": "Update the article",
+		"deleteArticle": "Delete articles",
+		"getArticleList": "Get article list",
+		"getArticleById": "Get article by ID",
 		"createCloudFileTag": "Create a cloud file tag",
 		"updateCloudFileTag": "Update the cloud file tag",
 		"deleteCloudFileTag": "Delete cloud file tags",
@@ -225,7 +250,13 @@
 		"messageCenterManagement": "Message Center",
 		"storageProviderManagement": "Storage Provider",
 		"cloudFileManagement": "Cloud File",
-		"cloudFileTagManagement": "Cloud File's Tag"
+		"cloudFileTagManagement": "Cloud File's Tag",
+		"cms": "Article",
+		"articleManagement": "Article",
+		"articleCategoryManagement": "Category",
+		"articleTagManagement": "Tag",
+		"articleCommentManagement": "Article Comment",
+		"articleModify": "Modify Article"
 	},
 	"login": {
 		"loginSuccessTitle": "Login successful",
