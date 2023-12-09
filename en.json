@@ -19,7 +19,7 @@
 		"notSingularError": "Operation failed: Data not unique",
 		"serviceUnavailable": "Service is unavailable, please check if the service is enabled"
 	},
-	"apiGroup":{
+	"apiGroup": {
 		"cloud_file_tag": "Cloud File's Tag",
 		"cloud_file": "Cloud File",
 		"storage_provider": "Storage Provider",
@@ -44,7 +44,9 @@
 		"email_log": "Email Log",
 		"sms_provider": "SMS Provider",
 		"sms_log": "SMS Log",
-		"message_sender": "Send Message"
+		"message_sender": "Send Message",
+		"module": "Module",
+		"release": "Release"
 	},
 	"apiDesc": {
 		"createCloudFileTag": "Create a cloud file tag",
@@ -225,7 +227,9 @@
 		"messageCenterManagement": "Message Center",
 		"storageProviderManagement": "Storage Provider",
 		"cloudFileManagement": "Cloud File",
-		"cloudFileTagManagement": "Cloud File's Tag"
+		"cloudFileTagManagement": "Cloud File's Tag",
+		"moduleManagement": "Module",
+		"moduleModify": "Module Modify"
 	},
 	"login": {
 		"loginSuccessTitle": "Login successful",
