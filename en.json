@@ -49,6 +49,16 @@
 		"image_tag": "Image Tag"
 	},
 	"apiDesc": {
+        "createImageTag": "Create a image tag",
+        "updateImageTag": "Update the image tag",
+        "deleteImageTag": "Delete image tags",
+        "getImageTagList": "Get image tag list",
+        "getImageTagById": "Get image tag by ID",
+        "createModule": "Create a module",
+        "updateModule": "Update the module",
+        "deleteModule": "Delete modules",
+        "getModuleList": "Get module list",
+        "getModuleById": "Get module by ID",
 		"createCloudFileTag": "Create a cloud file tag",
 		"updateCloudFileTag": "Update the cloud file tag",
 		"deleteCloudFileTag": "Delete cloud file tags",
