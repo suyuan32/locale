@@ -46,7 +46,7 @@
 		"sms_log": "SMS Log",
 		"message_sender": "Send Message",
 		"module": "Module",
-		"release": "Release"
+		"image_tag": "Image Tag"
 	},
 	"apiDesc": {
 		"createCloudFileTag": "Create a cloud file tag",
@@ -229,7 +229,8 @@
 		"cloudFileManagement": "Cloud File",
 		"cloudFileTagManagement": "Cloud File's Tag",
 		"moduleManagement": "Module",
-		"moduleModify": "Module Modify"
+		"moduleModify": "Module Modify",
+		"imageTagManagement": "Image Tag"
 	},
 	"login": {
 		"loginSuccessTitle": "Login successful",
