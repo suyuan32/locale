@@ -46,7 +46,8 @@
 		"sms_log": "短信发送日志",
 		"message_sender": "消息发送",
 		"module": "模块",
-		"image_tag": "镜像版本"
+		"image_tag": "镜像版本",
+		"payment": "支付信息"
 	},
 	"apiDesc": {
         "createImageTag": "创建镜像版本",
@@ -245,7 +246,8 @@
 		"cloudFileTagManagement": "云文件标签管理",
 		"moduleManagement": "模块管理",
 		"moduleModify": "模块编辑",
-		"imageTagManagement": "镜像标签管理"
+		"imageTagManagement": "镜像标签管理",
+		"paymentManagement": "支付管理"
 	},
 	"login": {
 		"loginSuccessTitle": "登录成功",
