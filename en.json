@@ -50,6 +50,11 @@
 		"payment": "Payment"
 	},
 	"apiDesc": {
+        "createPayment": "Create a payment",
+        "updatePayment": "Update the payment",
+        "deletePayment": "Delete payments",
+        "getPaymentList": "Get payment list",
+        "getPaymentById": "Get payment by ID",
         "createImageTag": "Create a image tag",
         "updateImageTag": "Update the image tag",
         "deleteImageTag": "Delete image tags",

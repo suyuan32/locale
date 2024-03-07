@@ -50,6 +50,11 @@
 		"payment": "支付信息"
 	},
 	"apiDesc": {
+        "createPayment": "创建支付信息",
+        "updatePayment": "更新支付信息",
+        "deletePayment": "删除支付信息",
+        "getPaymentList": "获取支付信息列表",
+        "getPaymentById": "通过ID获取支付信息",
         "createImageTag": "创建镜像版本",
         "updateImageTag": "更新镜像版本",
         "deleteImageTag": "删除镜像版本",
