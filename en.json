@@ -45,9 +45,21 @@
 		"email_log": "Email Log",
 		"sms_provider": "SMS Provider",
 		"sms_log": "SMS Log",
-		"message_sender": "Send Message"
+		"message_sender": "Send Message",
+		"permission": "API Advanced Permission",
+		"operation_log": "Operation Log"
 	},
 	"apiDesc": {
+        "createOperationLog": "Create a operation log",
+        "updateOperationLog": "Update the operation log",
+        "deleteOperationLog": "Delete operation logs",
+        "getOperationLogList": "Get operation log list",
+        "getOperationLogById": "Get operation log by ID",
+        "createPermission": "Create a permission",
+        "updatePermission": "Update the permission",
+        "deletePermission": "Delete permissions",
+        "getPermissionList": "Get permission list",
+        "getPermissionById": "Get permission by ID",
 		"createCloudFileTag": "Create a cloud file tag",
 		"updateCloudFileTag": "Update the cloud file tag",
 		"deleteCloudFileTag": "Delete cloud file tags",
@@ -226,7 +238,10 @@
 		"messageCenterManagement": "Message Center",
 		"storageProviderManagement": "Storage Provider",
 		"cloudFileManagement": "Cloud File",
-		"cloudFileTagManagement": "Cloud File's Tag"
+		"cloudFileTagManagement": "Cloud File's Tag",
+		"apiPermissionManagement": "API Permission",
+		"permissionManagement": "Permission",
+		"operationLogManagement": "Operation Log"
 	},
 	"login": {
 		"loginSuccessTitle": "Login successful",
