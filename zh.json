@@ -50,6 +50,7 @@
 		"operation_log": "操作日志"
 	},
 	"apiDesc": {
+		"permissionTest": "测试 API 权限",
         "createOperationLog": "创建操作日志",
         "updateOperationLog": "更新操作日志",
         "deleteOperationLog": "删除操作日志",

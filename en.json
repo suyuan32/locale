@@ -50,6 +50,7 @@
 		"operation_log": "Operation Log"
 	},
 	"apiDesc": {
+		"permissionTest": "Test Permission API",
         "createOperationLog": "Create a operation log",
         "updateOperationLog": "Update the operation log",
         "deleteOperationLog": "Delete operation logs",
